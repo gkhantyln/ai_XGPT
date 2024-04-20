@@ -1,5 +1,5 @@
 # ai_XGPT v1.0
-# Automatic Tweet Publishing Application
+# Automatic Tweet Publishing Application | https://twitter.com/ai_xgpt
 
 This application runs in the background and publishes posts suitable for your prompt on the X platform at automatically determined times.
 
