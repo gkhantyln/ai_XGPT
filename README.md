@@ -1,5 +1,7 @@
-# ai_XGPT v1.0
+# ai_XGPT Pro v1.0 | Work in progress ...
 # Automatic Tweet Publishing Application | https://twitter.com/ai_xgpt
+
+![Automatic Tweet Publishing Application](xgpt.png)
 
 This application runs in the background and publishes posts suitable for your prompt on the X platform at automatically determined times.
 
